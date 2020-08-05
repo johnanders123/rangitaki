@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-08-09T20:57:36+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-08-09T20:57:36+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/te-iwa-here-o-turi-k%C5%8Dk%C4%81/</loc>
+    <lastmod>2020-08-09T20:57:36+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/te-waru-here-o-turi-k%C5%8Dk%C4%81/</loc>
+    <lastmod>2020-08-08T22:12:16+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/te-whitu-here-o-turi-k%C5%8Dk%C4%81/</loc>
+    <lastmod>2020-08-07T22:12:16+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/te-ono-here-o-turi-k%C5%8Dk%C4%81/</loc>
+    <lastmod>2020-08-06T22:12:16+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/te-rima-here-o-turi-k%C5%8Dk%C4%81/</loc>
+    <lastmod>2020-08-05T22:29:08+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
